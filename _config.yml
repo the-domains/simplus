@@ -1,0 +1,28 @@
+name: Simplus
+favicon: null
+layout_spectrum: 0.5594049501232803
+typography_spectrum: 0.09795421687886119
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9262902888003737
+  lightness: 0.02927701734006405
+  saturation: 0.04242030577734113
+  rhythmicContrast: 0.13848145795054734
+purpose: []
