@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Simplus]]></title>
-        <description><![CDATA[Simplus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[SIMPLUS]]></title>
+        <description><![CDATA[SIMPLUS]]></description>
+        <link>http://simplusinfo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 17:39:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 14:20:57 GMT</lastBuildDate>
+        <atom:link href="http://simplusinfo.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Simplus]]></title>
             <description><![CDATA[<article><h1>Simplus</h1><p>Simplus specialises in creating customised financial information communications, in both text and video format, for its clients, to facilitate them reaching their target audience, which can be delivered via traditional and new media channels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27efaf17945de8f1ea1cf9647a86fcc2488f758e.jpg"></article>]]></description>
             <link>http://simplusinfo.com/</link>
             <guid isPermaLink="false">ea4621c0-1df7-4954-a59d-dd93626200b4</guid>
-            <pubDate>Wed, 16 Dec 2015 17:39:30 GMT</pubDate>
+            <pubDate>Wed, 20 Jul 2016 14:20:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
