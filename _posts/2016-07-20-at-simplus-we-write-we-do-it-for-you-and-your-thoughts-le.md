@@ -6,11 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
-  At Simplus, we write. We do it for you and your thoughts. Leadership blogs,
-  knowledge share articles, explanatory pieces are our strength. We help you
-  build your digital identity. 
-datePublished: '2016-07-21T09:20:12.928Z'
-dateModified: '2016-07-21T03:23:20.544Z'
+  At Simplus, we write. Leadership blogs, knowledge share articles, explanatory
+  pieces are our strength. We help you build your digital identity. 
+datePublished: '2016-07-21T09:49:24.412Z'
+dateModified: '2016-07-21T09:20:13.423Z'
 title: ''
 author: []
 via: {}
@@ -21,7 +20,7 @@ starred: true
 _type: Blurb
 
 ---
-At Simplus, we write. We do it for you and your thoughts. Leadership blogs, knowledge share articles, explanatory pieces are our strength. We help you build your digital identity. 
+At Simplus, we write. Leadership blogs, knowledge share articles, explanatory pieces are our strength. We help you build your digital identity. 
 
 To know how, write to us 
 
