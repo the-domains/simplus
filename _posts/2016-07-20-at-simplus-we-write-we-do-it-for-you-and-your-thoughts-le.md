@@ -8,8 +8,8 @@ keywords: []
 description: >-
   At Simplus, we write. Leadership blogs, knowledge share articles, explanatory
   pieces are our strength. We help you build your digital identity. 
-datePublished: '2016-07-21T09:49:24.412Z'
-dateModified: '2016-07-21T09:20:13.423Z'
+datePublished: '2016-07-25T11:52:17.316Z'
+dateModified: '2016-07-25T11:52:06.309Z'
 title: ''
 author: []
 via: {}
@@ -22,6 +22,4 @@ _type: Blurb
 ---
 At Simplus, we write. Leadership blogs, knowledge share articles, explanatory pieces are our strength. We help you build your digital identity. 
 
-To know how, write to us 
-
-rajas.kelkar@simplusinfo.com
+To know how, write to us
