@@ -1,37 +1,90 @@
 typography_spectrum: 0.5
 color:
+  saturation: 0.0625
+  brandStrength: 0.75
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#e95e49'
     - '#cdd662'
     - '#3c9eba'
     - '#afa561'
-  brandStrength: 0.75
   lightness: 0.02927701734006405
-  saturation: 0.0625
-  rhythmicContrast: 0.75
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.74708
+layout_spectrum: 0.7903226
 analytics:
-  google: null
-  facebook: null
   twitter: null
+  google: UA-109239903-1
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ce1b008-ee94-407e-8322-bdc2a445eaaf.png
 name: Simplus
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+navigation:
+  - name: About us
+    id: d298be69-979e-483b-b114-132ae535bb32
+    type: content
+  - name: What do we do
+    id: 2ae98075-df49-4b00-8fad-458eee8ad090
+    type: content
+  - name: Our work
+    url: 'https://simplus-yahoopartner.tumblr.com/'
+    type: external
+  - name: SIMPLUS
+    id: ecffbeee-d2dd-4fa0-b19c-404f59e0d5e2
+    type: content
 favicon: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 title: SIMPLUS
-description: |-
-  sdrow 
-  ruo
-  , 
-  sthguoht
-
-
-   ruoY
-purpose: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a930c9b5-a1b3-4bcd-9724-ede5f7d4d0ad.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a930c9b5-a1b3-4bcd-9724-ede5f7d4d0ad.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Your thoughts, our words'
+purpose:
+  - type: contact
+    url: 'mailto:rajas.kelkar@simplusinfo.com'
+    label: Contact Us
+github: true
+author:
+  name: NA NA
+  email: rajas.kelkar@simplusinfo.com
+  url: 'http://simplusinfo.com'
